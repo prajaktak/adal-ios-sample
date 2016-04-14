@@ -1,0 +1,8 @@
+pod ‘ADALiOS’, ‘~> 1.0.2’
+pod ‘Office365’, ‘~> 0.6.0’
+
+target ‘LocationServiceiOSClient’ do
+end
+
+target ‘LocationServiceiOSClientTests’ do
+end
